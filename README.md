@@ -80,7 +80,7 @@ Dekripsi  : HELLOX
 ## 📂 Struktur File
 
 ```
-hill_cipher.py
+kriptografi.py
 README.md
 ```
 
