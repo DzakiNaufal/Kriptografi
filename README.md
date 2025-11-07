@@ -37,7 +37,7 @@ pip install numpy
 ### 2️⃣ Jalankan Program
 
 ```bash
-python hill_cipher.py
+python kriptografi.py
 ```
 
 Kemudian masukkan:
